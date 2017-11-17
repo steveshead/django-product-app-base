@@ -1,6 +1,7 @@
-# Django - Product Display App v1.0
+# Django - Product Display App Base Version
 
 ### This app displays a list of products with their images and descriptions, uploaded using a form.
+This is a base version - a good starting point to develop from.
 
 * Only registered users can upload products.
 * Registered users will have the option to edit or delete products through the product detail page.
